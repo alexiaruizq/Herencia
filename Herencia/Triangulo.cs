@@ -17,7 +17,7 @@ namespace Herencia
 
         public Triangulo()
         {
-            Color = "Sin color";
+            Color = "Amarillo";
         }
     }
 }
